@@ -1,7 +1,23 @@
-### Hi there 👋
+<h1>Hi, I'm Gayeon! </h1>
+
+<h2>👨‍💻 Data Projects:</h2>
+
+- [Active Directory Home Lab](https://github.com/glee255/laburl)
+- [Active Directory Home Lab](https://github.com/glee255/laburl)
+
+
+<h2>📺 Ceritifications </h2>
+
+- AWS Cloud Practitioner
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="GayeonLee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: [https://www.linkedin.com/in/gayeonlee221/]
 
 <!--
-**glee255/glee255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
