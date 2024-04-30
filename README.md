@@ -1,12 +1,15 @@
-<h1>Hi, I'm Gayeon! </h1>
+# Data Scientist
 
-<h2>👨‍💻 Data Projects:</h2>
+### Data Projects
+### Work Experience
+
+
 
 - [Active Directory Home Lab](https://github.com/glee255/laburl)
 - [Active Directory Home Lab](https://github.com/glee255/laburl)
 
 
-<h2>📺 Ceritifications </h2>
+### Certification
 
 - AWS Cloud Practitioner
 
