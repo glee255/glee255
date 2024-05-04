@@ -22,46 +22,41 @@
 
 ### Work Experience
 
-##### Wisconsin School of Business Consulting Practicum, Madison, WI 01/24 – 05/24 
+#### Wisconsin School of Business Consulting Practicum, Madison, WI 01/24 – 05/24 
 Analytics Consultant; Project Sponsor: AGCO 
 - Conducting text analysis, organizing customer insights using Python to report by importance, product, region and brand to
   make actionable recommendations and improve customer satisfaction.
 - Building interactive UI that interacts with AGCO ChatGPT allowing internal employees to ask questions about survey data
   and get responses back to better improve the service and the product.
 
-#### Fubon Hyundai Life, Seoul, South Korea 08/22 – 07/23 
-Data Sourcing Manager
+#### Fubon Hyundai Life, Seoul, South Korea 08/22 – 07/23 Data Sourcing Manager
 - Managed consent rate by modifying application process, negotiating with counter parties, and running promotions, boosting 
 total leads up to 30%. 
 - Led and co-worked with assistant to classify and allocate telemarketing campaigns by pull-through rate and maximized the 
 efficiency up to 0.5% by changing data distribution policy from equal to performance based.
 
-#### Renault Financial Service, Seoul, South Korea 09/19 – 01/22 
-Marketing Communications Manager
+#### Renault Financial Service, Seoul, South Korea 09/19 – 01/22 Marketing Communications Manager
 - Analyzed 30K expected ‘end of agreement’ customers using SQL and CRM program and implemented 6-3-1 retention 
 program to increase repeated sales by 0.1%.
 - Collaborated with Nielsen Co. to conduct quarterly based customer profile report for 160K customers. 
 - Directed implementation of digital advertisements and operated microsite creating 300 new digital customer leads monthly.
 - Led communication with headquarters in Paris, France to align guidelines and report local status.
 - 
-#### Hyundai Card, Seoul, South Korea 02/14 – 09/19 
-Digital Channel Project Manager 
+#### Hyundai Card, Seoul, South Korea 02/14 – 09/19 Digital Channel Project Manager 
 - Initiated and designed branding app "Hyundai Card Weather" in collaboration with UX/UI specialists and promoted app in 
 global market; received international design awards (Red Dot/iF/D&AD).
 - Defined key business KPIs using Google Analytics to build dashboards for deriving analytical insights. 
 - Reviewed digital service KPI project drop-out rates and presented business insights with relevant teams for improvement. 
 - Coordinated Omniture/Google Analytics training workshops to coach ~4 teammates on analytical skills. 
 
-#### Hyundai Capital, Seoul, South Korea 01/13 – 01/14 
-Online Advertising Marketer 
+#### Hyundai Capital, Seoul, South Korea 01/13 – 01/14 Online Advertising Marketer 
 - Managed and directed e-commerce financial products strategy such as credit and mortgage loans; led building of new 
 dedicated call channel for mortgage loan customers, distinguishing leads and managing customer need tracking. 
 - Operated advertisement budget of $1M to promote financial products in web/mobile sites with simple consultation form 
 and click to call function generating 1K+ leads. 
 - Optimized plans by analyzing relationship between leads and budget via SQL to focus on highest conversion potential leads. 
 
-#### Hyundai Card, Seoul, South Korea 06/10 – 12/12 
-Pricing Analyst 
+#### Hyundai Card, Seoul, South Korea 06/10 – 12/12 Pricing Analyst 
 - Devised and operated pricing system of Hyundai Card’s financial products using SAS based on 4M customers with credit 
 card type, risk score and financial needs to mitigate risk and increase profit. 
 - Developed automatic price-adjusting system to reduce monthly customer complaints regarding high interest rates. 
