@@ -16,6 +16,7 @@
    
 #### Proposing optimization model for BirchBox subscription service (Python)
  - Applied optimization model to allocate 5 random beauty samples to 1K customers in 14 segments and maximized the margin to $16K with global optimality of 1%. Modified the constraint with different assumptions and conducted price sensitivity scenarios to better support decisions.
+ - [Code Link](https://github.com/glee255/Birchbox_Optimization_Model_GY.ipynb)
    
 #### Predicting Grocery Sales for Global Retail Chain, Kaggle Competition (Python)
   - Based on 3M+ rows of grocery sales data, constructed machine learning model based on OLS, random forest and neural network to better validate prediction. Determined best model per R squared, MSE, RMSE, MAE and employed model to forecast 28K customer sales with accuracy of 90%. 
